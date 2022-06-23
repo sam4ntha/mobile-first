@@ -417,7 +417,7 @@ main {
     min-width: 190px;
     max-width: 300px;
     height: 250px;
-    margin: 50px 10px 0;
+    margin: 50px 20px 0;
     padding: 0 15px;
     background-color: var(--just-white);
     border-radius: 15px;
@@ -443,7 +443,7 @@ main {
     color: black;
 }
 .plan-card--price {
-    padding: 5px 0;
+    padding: 5px;
     font-size: 5.2rem;
     font-weight: bold;
     line-height: 5.3rem;
@@ -461,7 +461,7 @@ main {
     width: 150px;
     height: 48px;
     margin-top: 20px;
-    background-color: #FAF8F7;
+    background-color: #faf8f7;
     border: 2px solid var(--bitcoin-orange);
     border-radius: 4px;
     font-family: "DM Sans", sans-serif;
